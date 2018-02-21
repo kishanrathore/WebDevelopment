@@ -1,0 +1,4 @@
+1. Change all the Home.html into index.html
+2. Correct the countdown anchor tag on the homepage
+3. Meet us here is now at bottom of committee section
+4. Meet us here is now opening the EC Dept picture
